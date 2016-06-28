@@ -1,0 +1,34 @@
+* I thought I'd just make a little test file for
+* that convtt.prg program.
+* You see, the program is designed for converting
+* text files from one computer format to another
+* For instance, HTML (the language of the internet)
+* uses <p> to represent a new paragraph
+* Wheras STWRITER elite (an atari program)
+* uses character 0.
+
+* The examples now:
+
+* Check for previous conversion:
+f "ID445"
+d 5
+i "Already converted!"
+* If id445 was found, then file was probably previously converted.
+
+* Replace all letter a with 'bay':
+r "a" "bay"
+* now add something to the end (probably illegal)
+i "horses"
+p -3
+i "! for sale !"
+p 34
+i "!This text is 34 characters from the beginning!"
+p +0
+i "This file has been coverted using a MAC file"
+p +0
+i "ID445"
+p -0
+i "ID445end"
+
+* The file has been converted.
+

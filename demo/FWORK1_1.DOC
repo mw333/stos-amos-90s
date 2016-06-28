@@ -1,0 +1,37 @@
+
+
+                      Fireworks Version 1.1
+
+
+                      ½ 1991 Matthew Waller
+
+
+     This version was completed on Tuesday the 6th of August 
+
+     This program, written in STOS allows any number of "Stars" to 
+be  displayed  as  moving objects radiating away  from  a  central 
+point.  This  point changes after a while.  The mouse position  is 
+represented as a bus although this can be altered.
+
+                           Contents:  
+
+     1.0  Stars
+
+     1.1  Screen frequency
+
+     1.2  Speed
+
+     1.3  Centrepoint
+
+     1.4  Fading stars
+
+     1.5  Maximum speed
+
+     1.6  Star reversal
+
+     2.0  Changing the bus
+
+     2.1  Removing the mouse
+
+     3.0  Future developments
+
